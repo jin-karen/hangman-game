@@ -5,3 +5,7 @@ This game is recreated with Python, to be run in a shell, and it showcases impor
 
 ## To Run:
 This Python script can be run on any shell with python3 installed. Just clone the repository and run the script in a shell using "python hangman.py" or "python3 hangman.py".
+
+## Screenshots:
+![Hangman1](https://user-images.githubusercontent.com/102393842/217401690-ab3ceca4-a36f-4c49-b398-a1410f06e715.png)
+![Hangman2](https://user-images.githubusercontent.com/102393842/217401707-bde7e944-54d0-4139-ae32-bdfda479f4ce.png)
